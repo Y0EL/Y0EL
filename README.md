@@ -6,7 +6,7 @@ Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Ja
 - HTML & CSS
 - Klasifikasi
 - Monitoring
-- Shinta
+- Fie Fie
 
  **Gue bersedia untuk**:
 
