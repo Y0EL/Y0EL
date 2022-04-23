@@ -22,5 +22,5 @@ Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Ja
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/saya_andreas)
 </p>
 
-| <a href="https://github.com/Y0EL"><img align="center" src="https://yoelandreas.manoppo.my.id/assets/20220417_233727.png" alt="Yoel" /></a> | <a href="https://github.com/Y0EL"></a> |
-| ------------- |
+| <a href="https://github.com/Y0EL"><img align="center" src="https://yoelandreas.manoppo.my.id/assets/20220417_233727.png" alt="Yoel" /></a> | 
+| ------------- | ------------- |
