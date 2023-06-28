@@ -23,6 +23,6 @@ Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Ja
 </p>
 
 <a href="https://github.com/Y0EL">
-  <img align="center" src="https://pps.whatsapp.net/v/t61.24694-24/352843615_791554735685016_3698136794997860709_n.jpg?ccb=11-4&oh=01_AdTJxjeM5owQeYWUmhsIdNo5IisIdHZSUycmK_31oumAfg&oe=64A8EA4F" alt="Yoel" width="225" height="225">
+  <img align="center" src="https://pps.whatsapp.net/v/t61.24694-24/352843615_791554735685016_3698136794997860709_n.jpg?ccb=11-4&oh=01_AdTJxjeM5owQeYWUmhsIdNo5IisIdHZSUycmK_31oumAfg&oe=64A8EA4F" alt="Yoel" width="250" height="250">
 </a>
  
