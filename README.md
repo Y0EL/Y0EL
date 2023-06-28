@@ -18,8 +18,8 @@ Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Ja
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=black" />](https://wa.me/6283844000383)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/saya_andreas)
+[<img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=black" />](https://wa.me/628992246000)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/yoelmanoppo)
 </p>
 
 <a href="https://github.com/Y0EL">
