@@ -1,4 +1,4 @@
-### Hai, Gue [Yoel](https://yoelandreas.manoppo.my.id) 👋
+### Hai, Gue [Yoel](https://instagram.com/yoelmanoppo) 👋
 
 Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Jakarta Utara
 
